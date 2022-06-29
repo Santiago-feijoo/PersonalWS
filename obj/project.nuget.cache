@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcTZP035wFujtpp7+CQUu2cwUi4YewfKT9mcn67Wr/Wed+hxvGZNUWtNzzvU0Sojoto7TBfZx2IXVlfAdHoKyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\57310\\source\\repos\\PersonalWS\\PersonalWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\57310\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\57310\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\57310\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\57310\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\57310\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\57310\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
